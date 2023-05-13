@@ -1,0 +1,22 @@
+{
+	"editor.wordWrapColumn": 120,
+	"editor.wordWrap": "wordWrapColumn",
+	"editor.wordBasedSuggestions": true,
+	"diffEditor.wordWrap": "on",
+	"editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+	"html.format.indentInnerHtml": true,
+	"html.format.wrapAttributesIndentSize": 4,
+	"editor.fontSize": 16,
+	"editor.tabSize": 4,
+	"thunder-client.indentSize": 4,
+	"prettier.useTabs": true,
+	"prettier.tabWidth": 4,
+	"editor.fontFamily": "'Fira Code', monospace",
+	"editor.fontLigatures": true,
+	"editor.fontWeight": "400",
+	"editor.minimap.enabled": false,
+	"editor.formatOnSave": true,
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+}
