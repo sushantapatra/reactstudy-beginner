@@ -1,3 +1,12 @@
+#Setting up a React Environment
+=>npx create-react-app my-react-app
+=>cd my-react-app
+=>npm start
+
+=>npm install
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
